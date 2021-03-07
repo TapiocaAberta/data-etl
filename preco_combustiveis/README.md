@@ -7,12 +7,12 @@ O objetivo desse processo de ETL é agrupar os dados de ETL do Brasil para ter u
 
 ### Executando
 
-Para executar utilize a ferramenta jbang com Java na versão 16. Primeiro você precisa baixar alguns arquivos:
+Para executar utilize a ferramenta jbang com Java na versão 15. Primeiro você precisa baixar alguns arquivos:
 
 ```
 jbang SummarizeFuelPrice.java DOWNLOAD
 ```
-Com arquivos baixados, copie os que quer processar do diretório `downloaded` para `input` e rode:
+Com arquivos baixados, você precisará converter o encoding para UTF-8. No Linux o script na pasta "downloaded" irá ajudar. Após converter copie os que quer processar do diretório `downloaded` para `input` e rode:
 ```
 jbang SummarizeFuelPrice.java PROCESS
 ```

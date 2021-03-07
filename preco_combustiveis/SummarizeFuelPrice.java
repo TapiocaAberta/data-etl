@@ -4,10 +4,13 @@
 //JAVA 16
 import java.io.IOException;
 import java.net.URL;
+import java.nio.ByteBuffer;
 import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
+import java.nio.file.OpenOption;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.text.NumberFormat;
 import java.text.ParseException;
 import java.util.ArrayList;
@@ -15,6 +18,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Optional;
+import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
@@ -97,14 +101,16 @@ public class SummarizeFuelPrice {
         var groupedRecord = new HashMap<FuelPriceGroup, List<Double>>();
         var t = System.currentTimeMillis();
         System.out.println("Start processing... ");
+        var count = new AtomicInteger();
         Files.walk(IN_PATH)
              .filter(f -> f.toString().toLowerCase().endsWith("csv"))
-             .parallel()
+             //             .parallel()
              .flatMap(SummarizeFuelPrice::readFile)
+             .peek(e -> count.incrementAndGet())
              .forEach(record -> addNewRecord(groupedRecord, record));
         var totalTime = (System.currentTimeMillis() - t) / 1000;
 
-        System.out.println("Processed %d records in %d seconds".formatted(groupedRecord.size(), totalTime));
+        System.out.println("Processed %d records in %d seconds resulting in %d grouped records".formatted(count.get(), totalTime, groupedRecord.size()));
 
         // Get a summary of grouped data and transform to CSV rows
         var csvBody = groupedRecord.entrySet()
@@ -116,10 +122,8 @@ public class SummarizeFuelPrice {
                                    .map(SummarizeFuelPrice::toCsvRow)
                                    .collect(Collectors.joining("\n"));
         var csvContent = CSV_HEADER + "\n" + csvBody;
-
         Files.deleteIfExists(PROCESSED_OUT_PATH);
-        Files.writeString(PROCESSED_OUT_PATH, csvContent, StandardCharsets.ISO_8859_1);
-
+        Files.writeString(PROCESSED_OUT_PATH, csvContent, StandardCharsets.UTF_8);
     }
 
     private static String toCsvRow(SummarizeFuelPrice.FuelPriceSummary record) {
@@ -135,7 +139,7 @@ public class SummarizeFuelPrice {
 
     private static Stream<String> readFile(Path file) {
         try {
-            return Files.readAllLines(file, StandardCharsets.ISO_8859_1).stream().skip(1);
+            return Files.readAllLines(file, StandardCharsets.UTF_8).stream().skip(1);
         } catch (Exception e) {
             System.out.println("Error reading file: " + file.toString());
             System.out.println("Error: " + e.getMessage());
@@ -154,10 +158,15 @@ public class SummarizeFuelPrice {
                 String year = dateParts[2];
                 String state = records[IDX_STATE];
                 String type = records[IDX_TYPE];
+                
+                if (month.length() != 2 || year.length() != 4) {
+                    throw new RuntimeException("Invalid date");
+                }
+                
                 var group = new FuelPriceGroup(year, month, state, type);
                 groupedData.putIfAbsent(group, new ArrayList<Double>());
                 groupedData.get(group).add(price);
-            } catch (ParseException e) {
+            } catch (Exception e) {
                 System.out.println("Error processing value, skipping processing. Line: " + line);
                 System.out.println("Error: " + e.getMessage());
             }
