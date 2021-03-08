@@ -41,7 +41,7 @@ public class SummarizeFuelPrice {
 
     private static final String CSV_TEXT_QUOTE = "\"";
     private static final String CSV_DELIMITER = ",";
-    private static final String CSV_HEADER = "DAY,MONTH,STATE,TYPE,MIN,AVG,MAX";
+    private static final String CSV_HEADER = "MONTH,YEAR,STATE,TYPE,MIN,AVG,MAX";
 
     enum Options {
         DOWNLOAD,
