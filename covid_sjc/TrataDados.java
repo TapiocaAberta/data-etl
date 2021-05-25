@@ -25,9 +25,9 @@ public class TrataDados {
 						     "DEATHS");
 
     // CSV IDX
-    private static final int DATE_IDX = 0;
-    private static final int CASES_IDX = 4;
-    private static final int DEATHS_IDX = 5;
+    private static final int DATE_IDX = 1;
+    private static final int CASES_IDX = 7;
+    private static final int DEATHS_IDX = 10;
 
     public static void main(String args[]) throws Exception {
         var body = Files.lines(INPUT)
