@@ -543,7 +543,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2014,12,Homens,60 anos ou mais,31000
 2014,12,Homens,60 a 64 anos,11000
 2014,12,Homens,65 anos ou mais,20000
-2014,12,Mulheres,Total,
 2014,12,Mulheres,0 a 4 anos,35000
 2014,12,Mulheres,5 a 13 anos,75000
 2014,12,Mulheres,5 a 9 anos,41000
@@ -1080,7 +1079,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2017,13,Total,16 a 17 anos,165000
 2017,13,Total,18 a 19 anos,154000
 2017,13,Total,20 a 24 anos,345000
-2017,13,Total,25 a 29 anos,
 2017,13,Total,30 a 39 anos,622000
 2017,13,Total,40 a 49 anos,471000
 2017,13,Total,50 a 59 anos,338000
@@ -1198,7 +1196,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,13,Homens,14 a 15 anos,84000
 2019,13,Homens,16 a 17 anos,75000
 2019,13,Homens,18 a 19 anos,86000
-2019,13,Homens,20 a 24 anos,
 2019,13,Homens,25 a 29 anos,142000
 2019,13,Homens,30 a 39 anos,307000
 2019,13,Homens,40 a 49 anos,251000
@@ -1779,7 +1776,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2014,15,Mulheres,20 a 24 anos,345000
 2014,15,Mulheres,25 a 29 anos,348000
 2014,15,Mulheres,30 a 39 anos,657000
-2014,15,Mulheres,40 a 49 anos,
 2014,15,Mulheres,50 a 59 anos,340000
 2014,15,Mulheres,60 anos ou mais,383000
 2014,15,Mulheres,60 a 64 anos,124000
@@ -2565,7 +2561,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2014,17,Total,50 a 59 anos,120000
 2014,17,Total,60 anos ou mais,147000
 2014,17,Total,60 a 64 anos,47000
-2014,17,Total,65 anos ou mais,
 2014,17,Homens,Total,737000
 2014,17,Homens,0 a 4 anos,62000
 2014,17,Homens,5 a 13 anos,120000
@@ -2703,7 +2698,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,17,Mulheres,60 a 64 anos,21000
 2016,17,Mulheres,65 anos ou mais,63000
 2017,17,Total,Total,1524000
-2017,17,Total,0 a 4 anos,
 2017,17,Total,5 a 13 anos,224000
 2017,17,Total,5 a 9 anos,117000
 2017,17,Total,10 a 13 anos,107000
@@ -2805,7 +2799,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2018,17,Mulheres,60 a 64 anos,32000
 2018,17,Mulheres,65 anos ou mais,77000
 2019,17,Total,Total,1560000
-2019,17,Total,0 a 4 anos,
 2019,17,Total,5 a 13 anos,219000
 2019,17,Total,5 a 9 anos,112000
 2019,17,Total,10 a 13 anos,107000
@@ -2941,7 +2934,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2013,21,Homens,60 a 64 anos,115000
 2013,21,Homens,65 anos ou mais,225000
 2013,21,Mulheres,Total,3452000
-2013,21,Mulheres,0 a 4 anos,
 2013,21,Mulheres,5 a 13 anos,588000
 2013,21,Mulheres,5 a 9 anos,316000
 2013,21,Mulheres,10 a 13 anos,272000
@@ -3044,7 +3036,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2015,21,Homens,65 anos ou mais,250000
 2015,21,Mulheres,Total,3493000
 2015,21,Mulheres,0 a 4 anos,278000
-2015,21,Mulheres,5 a 13 anos,
 2015,21,Mulheres,5 a 9 anos,317000
 2015,21,Mulheres,10 a 13 anos,284000
 2015,21,Mulheres,14 a 17 anos,294000
@@ -3241,7 +3232,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,21,Homens,20 a 24 anos,284000
 2019,21,Homens,25 a 29 anos,241000
 2019,21,Homens,30 a 39 anos,518000
-2019,21,Homens,40 a 49 anos,
 2019,21,Homens,50 a 59 anos,325000
 2019,21,Homens,60 anos ou mais,415000
 2019,21,Homens,60 a 64 anos,120000
@@ -3447,7 +3437,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2015,22,Homens,30 a 39 anos,241000
 2015,22,Homens,40 a 49 anos,194000
 2015,22,Homens,50 a 59 anos,152000
-2015,22,Homens,60 anos ou mais,
 2015,22,Homens,60 a 64 anos,55000
 2015,22,Homens,65 anos ou mais,144000
 2015,22,Mulheres,Total,1645000
@@ -3498,7 +3487,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,22,Homens,30 a 39 anos,252000
 2016,22,Homens,40 a 49 anos,195000
 2016,22,Homens,50 a 59 anos,162000
-2016,22,Homens,60 anos ou mais,
 2016,22,Homens,60 a 64 anos,61000
 2016,22,Homens,65 anos ou mais,139000
 2016,22,Mulheres,Total,1665000
@@ -3627,7 +3615,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,22,Total,10 a 13 anos,205000
 2019,22,Total,14 a 17 anos,208000
 2019,22,Total,14 a 15 anos,108000
-2019,22,Total,16 a 17 anos,
 2019,22,Total,18 a 19 anos,116000
 2019,22,Total,20 a 24 anos,262000
 2019,22,Total,25 a 29 anos,227000
@@ -3923,7 +3910,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,23,Mulheres,30 a 39 anos,691000
 2016,23,Mulheres,40 a 49 anos,618000
 2016,23,Mulheres,50 a 59 anos,519000
-2016,23,Mulheres,60 anos ou mais,
 2016,23,Mulheres,60 a 64 anos,197000
 2016,23,Mulheres,65 anos ou mais,503000
 2017,23,Total,Total,9015000
@@ -4059,7 +4045,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,23,Homens,30 a 39 anos,686000
 2019,23,Homens,40 a 49 anos,566000
 2019,23,Homens,50 a 59 anos,478000
-2019,23,Homens,60 anos ou mais,
 2019,23,Homens,60 a 64 anos,164000
 2019,23,Homens,65 anos ou mais,437000
 2019,23,Mulheres,Total,4767000
@@ -4457,7 +4442,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,24,Homens,0 a 4 anos,115000
 2019,24,Homens,5 a 13 anos,229000
 2019,24,Homens,5 a 9 anos,129000
-2019,24,Homens,10 a 13 anos,
 2019,24,Homens,14 a 17 anos,97000
 2019,24,Homens,14 a 15 anos,48000
 2019,24,Homens,16 a 17 anos,49000
@@ -4949,7 +4933,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2013,26,Total,Total,9134000
 2013,26,Total,0 a 4 anos,644000
 2013,26,Total,5 a 13 anos,1343000
-2013,26,Total,5 a 9 anos,
 2013,26,Total,10 a 13 anos,642000
 2013,26,Total,14 a 17 anos,684000
 2013,26,Total,14 a 15 anos,333000
@@ -5118,7 +5101,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,26,Total,65 anos ou mais,917000
 2016,26,Homens,Total,4448000
 2016,26,Homens,0 a 4 anos,293000
-2016,26,Homens,5 a 13 anos,
 2016,26,Homens,5 a 9 anos,316000
 2016,26,Homens,10 a 13 anos,284000
 2016,26,Homens,14 a 17 anos,361000
@@ -5908,7 +5890,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2015,28,Mulheres,16 a 17 anos,42000
 2015,28,Mulheres,18 a 19 anos,41000
 2015,28,Mulheres,20 a 24 anos,89000
-2015,28,Mulheres,25 a 29 anos,
 2015,28,Mulheres,30 a 39 anos,183000
 2015,28,Mulheres,40 a 49 anos,158000
 2015,28,Mulheres,50 a 59 anos,126000
@@ -6113,7 +6094,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,28,Mulheres,18 a 19 anos,46000
 2019,28,Mulheres,20 a 24 anos,95000
 2019,28,Mulheres,25 a 29 anos,97000
-2019,28,Mulheres,30 a 39 anos,
 2019,28,Mulheres,40 a 49 anos,168000
 2019,28,Mulheres,50 a 59 anos,133000
 2019,28,Mulheres,60 anos ou mais,159000
@@ -6292,7 +6272,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2015,29,Homens,Total,7108000
 2015,29,Homens,0 a 4 anos,480000
 2015,29,Homens,5 a 13 anos,1095000
-2015,29,Homens,5 a 9 anos,
 2015,29,Homens,10 a 13 anos,495000
 2015,29,Homens,14 a 17 anos,547000
 2015,29,Homens,14 a 15 anos,294000
@@ -6350,7 +6329,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,29,Homens,16 a 17 anos,280000
 2016,29,Homens,18 a 19 anos,233000
 2016,29,Homens,20 a 24 anos,521000
-2016,29,Homens,25 a 29 anos,
 2016,29,Homens,30 a 39 anos,1197000
 2016,29,Homens,40 a 49 anos,975000
 2016,29,Homens,50 a 59 anos,713000
@@ -6400,14 +6378,12 @@ ano,id_uf,sexo,grupo_idade,populacao
 2017,29,Homens,14 a 15 anos,261000
 2017,29,Homens,16 a 17 anos,247000
 2017,29,Homens,18 a 19 anos,248000
-2017,29,Homens,20 a 24 anos,
 2017,29,Homens,25 a 29 anos,505000
 2017,29,Homens,30 a 39 anos,1157000
 2017,29,Homens,40 a 49 anos,917000
 2017,29,Homens,50 a 59 anos,776000
 2017,29,Homens,60 anos ou mais,868000
 2017,29,Homens,60 a 64 anos,268000
-2017,29,Homens,65 anos ou mais,
 2017,29,Mulheres,Total,7606000
 2017,29,Mulheres,0 a 4 anos,434000
 2017,29,Mulheres,5 a 13 anos,980000
@@ -6559,7 +6535,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2012,31,Homens,40 a 49 anos,1341000
 2012,31,Homens,50 a 59 anos,1087000
 2012,31,Homens,60 anos ou mais,1208000
-2012,31,Homens,60 a 64 anos,
 2012,31,Homens,65 anos ou mais,808000
 2012,31,Mulheres,Total,10359000
 2012,31,Mulheres,0 a 4 anos,616000
@@ -6739,7 +6714,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,31,Total,14 a 17 anos,1303000
 2016,31,Total,14 a 15 anos,626000
 2016,31,Total,16 a 17 anos,677000
-2016,31,Total,18 a 19 anos,
 2016,31,Total,20 a 24 anos,1696000
 2016,31,Total,25 a 29 anos,1626000
 2016,31,Total,30 a 39 anos,3223000
@@ -6965,7 +6939,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2012,32,Homens,25 a 29 anos,152000
 2012,32,Homens,30 a 39 anos,272000
 2012,32,Homens,40 a 49 anos,249000
-2012,32,Homens,50 a 59 anos,
 2012,32,Homens,60 anos ou mais,210000
 2012,32,Homens,60 a 64 anos,71000
 2012,32,Homens,65 anos ou mais,139000
@@ -7187,7 +7160,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,32,Mulheres,30 a 39 anos,321000
 2016,32,Mulheres,40 a 49 anos,289000
 2016,32,Mulheres,50 a 59 anos,265000
-2016,32,Mulheres,60 anos ou mais,
 2016,32,Mulheres,60 a 64 anos,88000
 2016,32,Mulheres,65 anos ou mais,212000
 2017,32,Total,Total,3922000
@@ -7238,7 +7210,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2017,32,Mulheres,30 a 39 anos,341000
 2017,32,Mulheres,40 a 49 anos,285000
 2017,32,Mulheres,50 a 59 anos,251000
-2017,32,Mulheres,60 anos ou mais,
 2017,32,Mulheres,60 a 64 anos,95000
 2017,32,Mulheres,65 anos ou mais,205000
 2018,32,Total,Total,3969000
@@ -7692,7 +7663,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2018,33,Mulheres,14 a 15 anos,215000
 2018,33,Mulheres,16 a 17 anos,210000
 2018,33,Mulheres,18 a 19 anos,239000
-2018,33,Mulheres,20 a 24 anos,
 2018,33,Mulheres,25 a 29 anos,621000
 2018,33,Mulheres,30 a 39 anos,1371000
 2018,33,Mulheres,40 a 49 anos,1304000
@@ -7703,7 +7673,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,33,Total,Total,17264000
 2019,33,Total,0 a 4 anos,879000
 2019,33,Total,5 a 13 anos,1704000
-2019,33,Total,5 a 9 anos,
 2019,33,Total,10 a 13 anos,804000
 2019,33,Total,14 a 17 anos,867000
 2019,33,Total,14 a 15 anos,454000
@@ -8284,7 +8253,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2014,41,Homens,5 a 9 anos,351000
 2014,41,Homens,10 a 13 anos,322000
 2014,41,Homens,14 a 17 anos,377000
-2014,41,Homens,14 a 15 anos,
 2014,41,Homens,16 a 17 anos,177000
 2014,41,Homens,18 a 19 anos,188000
 2014,41,Homens,20 a 24 anos,424000
@@ -8396,7 +8364,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,41,Homens,50 a 59 anos,681000
 2016,41,Homens,60 anos ou mais,742000
 2016,41,Homens,60 a 64 anos,242000
-2016,41,Homens,65 anos ou mais,
 2016,41,Mulheres,Total,5755000
 2016,41,Mulheres,0 a 4 anos,324000
 2016,41,Mulheres,5 a 13 anos,664000
@@ -8554,7 +8521,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,41,Mulheres,0 a 4 anos,354000
 2019,41,Mulheres,5 a 13 anos,665000
 2019,41,Mulheres,5 a 9 anos,365000
-2019,41,Mulheres,10 a 13 anos,
 2019,41,Mulheres,14 a 17 anos,304000
 2019,41,Mulheres,14 a 15 anos,154000
 2019,41,Mulheres,16 a 17 anos,150000
@@ -8811,7 +8777,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,42,Mulheres,5 a 9 anos,202000
 2016,42,Mulheres,10 a 13 anos,166000
 2016,42,Mulheres,14 a 17 anos,201000
-2016,42,Mulheres,14 a 15 anos,
 2016,42,Mulheres,16 a 17 anos,101000
 2016,42,Mulheres,18 a 19 anos,105000
 2016,42,Mulheres,20 a 24 anos,257000
@@ -8827,14 +8792,12 @@ ano,id_uf,sexo,grupo_idade,populacao
 2017,42,Total,5 a 13 anos,738000
 2017,42,Total,5 a 9 anos,413000
 2017,42,Total,10 a 13 anos,325000
-2017,42,Total,14 a 17 anos,
 2017,42,Total,14 a 15 anos,192000
 2017,42,Total,16 a 17 anos,209000
 2017,42,Total,18 a 19 anos,226000
 2017,42,Total,20 a 24 anos,544000
 2017,42,Total,25 a 29 anos,551000
 2017,42,Total,30 a 39 anos,1113000
-2017,42,Total,40 a 49 anos,
 2017,42,Total,50 a 59 anos,910000
 2017,42,Total,60 anos ou mais,1066000
 2017,42,Total,60 a 64 anos,357000
@@ -8915,7 +8878,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2018,42,Mulheres,14 a 17 anos,176000
 2018,42,Mulheres,14 a 15 anos,83000
 2018,42,Mulheres,16 a 17 anos,92000
-2018,42,Mulheres,18 a 19 anos,
 2018,42,Mulheres,20 a 24 anos,247000
 2018,42,Mulheres,25 a 29 anos,271000
 2018,42,Mulheres,30 a 39 anos,587000
@@ -8947,7 +8909,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,42,Homens,5 a 9 anos,221000
 2019,42,Homens,10 a 13 anos,193000
 2019,42,Homens,14 a 17 anos,184000
-2019,42,Homens,14 a 15 anos,
 2019,42,Homens,16 a 17 anos,85000
 2019,42,Homens,18 a 19 anos,96000
 2019,42,Homens,20 a 24 anos,273000
@@ -8963,13 +8924,11 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,42,Mulheres,5 a 13 anos,381000
 2019,42,Mulheres,5 a 9 anos,214000
 2019,42,Mulheres,10 a 13 anos,166000
-2019,42,Mulheres,14 a 17 anos,
 2019,42,Mulheres,14 a 15 anos,97000
 2019,42,Mulheres,16 a 17 anos,103000
 2019,42,Mulheres,18 a 19 anos,107000
 2019,42,Mulheres,20 a 24 anos,267000
 2019,42,Mulheres,25 a 29 anos,271000
-2019,42,Mulheres,30 a 39 anos,
 2019,42,Mulheres,40 a 49 anos,528000
 2019,42,Mulheres,50 a 59 anos,480000
 2019,42,Mulheres,60 anos ou mais,613000
@@ -9016,7 +8975,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2012,43,Mulheres,10 a 13 anos,352000
 2012,43,Mulheres,14 a 17 anos,365000
 2012,43,Mulheres,14 a 15 anos,165000
-2012,43,Mulheres,16 a 17 anos,
 2012,43,Mulheres,18 a 19 anos,177000
 2012,43,Mulheres,20 a 24 anos,377000
 2012,43,Mulheres,25 a 29 anos,406000
@@ -9188,12 +9146,10 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,43,Total,14 a 15 anos,325000
 2016,43,Total,16 a 17 anos,369000
 2016,43,Total,18 a 19 anos,293000
-2016,43,Total,20 a 24 anos,
 2016,43,Total,25 a 29 anos,801000
 2016,43,Total,30 a 39 anos,1664000
 2016,43,Total,40 a 49 anos,1596000
 2016,43,Total,50 a 59 anos,1529000
-2016,43,Total,60 anos ou mais,
 2016,43,Total,60 a 64 anos,642000
 2016,43,Total,65 anos ou mais,1358000
 2016,43,Homens,Total,5420000
@@ -9268,7 +9224,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2017,43,Mulheres,0 a 4 anos,312000
 2017,43,Mulheres,5 a 13 anos,605000
 2017,43,Mulheres,5 a 9 anos,305000
-2017,43,Mulheres,10 a 13 anos,
 2017,43,Mulheres,14 a 17 anos,307000
 2017,43,Mulheres,14 a 15 anos,148000
 2017,43,Mulheres,16 a 17 anos,159000
@@ -9320,7 +9275,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2018,43,Mulheres,5 a 13 anos,602000
 2018,43,Mulheres,5 a 9 anos,340000
 2018,43,Mulheres,10 a 13 anos,261000
-2018,43,Mulheres,14 a 17 anos,
 2018,43,Mulheres,14 a 15 anos,140000
 2018,43,Mulheres,16 a 17 anos,160000
 2018,43,Mulheres,18 a 19 anos,164000
@@ -9401,7 +9355,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2012,50,Total,60 a 64 anos,81000
 2012,50,Total,65 anos ou mais,204000
 2012,50,Homens,Total,1243000
-2012,50,Homens,0 a 4 anos,
 2012,50,Homens,5 a 13 anos,185000
 2012,50,Homens,5 a 9 anos,93000
 2012,50,Homens,10 a 13 anos,91000
@@ -9461,7 +9414,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2013,50,Homens,16 a 17 anos,44000
 2013,50,Homens,18 a 19 anos,41000
 2013,50,Homens,20 a 24 anos,97000
-2013,50,Homens,25 a 29 anos,
 2013,50,Homens,30 a 39 anos,202000
 2013,50,Homens,40 a 49 anos,160000
 2013,50,Homens,50 a 59 anos,122000
@@ -9495,7 +9447,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2014,50,Total,16 a 17 anos,86000
 2014,50,Total,18 a 19 anos,93000
 2014,50,Total,20 a 24 anos,201000
-2014,50,Total,25 a 29 anos,
 2014,50,Total,30 a 39 anos,413000
 2014,50,Total,40 a 49 anos,346000
 2014,50,Total,50 a 59 anos,268000
@@ -9520,7 +9471,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2014,50,Homens,60 a 64 anos,44000
 2014,50,Homens,65 anos ou mais,97000
 2014,50,Mulheres,Total,1304000
-2014,50,Mulheres,0 a 4 anos,
 2014,50,Mulheres,5 a 13 anos,171000
 2014,50,Mulheres,5 a 9 anos,88000
 2014,50,Mulheres,10 a 13 anos,84000
@@ -9563,7 +9513,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2015,50,Homens,16 a 17 anos,46000
 2015,50,Homens,18 a 19 anos,44000
 2015,50,Homens,20 a 24 anos,105000
-2015,50,Homens,25 a 29 anos,
 2015,50,Homens,30 a 39 anos,196000
 2015,50,Homens,40 a 49 anos,163000
 2015,50,Homens,50 a 59 anos,135000
@@ -9965,7 +9914,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2015,51,Homens,0 a 4 anos,123000
 2015,51,Homens,5 a 13 anos,244000
 2015,51,Homens,5 a 9 anos,144000
-2015,51,Homens,10 a 13 anos,
 2015,51,Homens,14 a 17 anos,114000
 2015,51,Homens,14 a 15 anos,57000
 2015,51,Homens,16 a 17 anos,57000
@@ -10094,7 +10042,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2017,51,Mulheres,30 a 39 anos,292000
 2017,51,Mulheres,40 a 49 anos,255000
 2017,51,Mulheres,50 a 59 anos,189000
-2017,51,Mulheres,60 anos ou mais,
 2017,51,Mulheres,60 a 64 anos,70000
 2017,51,Mulheres,65 anos ou mais,130000
 2018,51,Total,Total,3389000
@@ -10207,7 +10154,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2012,52,Total,14 a 17 anos,477000
 2012,52,Total,14 a 15 anos,234000
 2012,52,Total,16 a 17 anos,243000
-2012,52,Total,18 a 19 anos,
 2012,52,Total,20 a 24 anos,524000
 2012,52,Total,25 a 29 anos,551000
 2012,52,Total,30 a 39 anos,1067000
@@ -10453,7 +10399,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,52,Mulheres,50 a 59 anos,386000
 2016,52,Mulheres,60 anos ou mais,451000
 2016,52,Mulheres,60 a 64 anos,151000
-2016,52,Mulheres,65 anos ou mais,
 2017,52,Total,Total,6824000
 2017,52,Total,0 a 4 anos,448000
 2017,52,Total,5 a 13 anos,833000
@@ -10470,7 +10415,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2017,52,Total,50 a 59 anos,761000
 2017,52,Total,60 anos ou mais,901000
 2017,52,Total,60 a 64 anos,301000
-2017,52,Total,65 anos ou mais,
 2017,52,Homens,Total,3330000
 2017,52,Homens,0 a 4 anos,239000
 2017,52,Homens,5 a 13 anos,419000
@@ -10529,7 +10473,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2018,52,Homens,10 a 13 anos,219000
 2018,52,Homens,14 a 17 anos,226000
 2018,52,Homens,14 a 15 anos,126000
-2018,52,Homens,16 a 17 anos,
 2018,52,Homens,18 a 19 anos,105000
 2018,52,Homens,20 a 24 anos,278000
 2018,52,Homens,25 a 29 anos,243000
@@ -10563,10 +10506,8 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,52,Total,10 a 13 anos,392000
 2019,52,Total,14 a 17 anos,411000
 2019,52,Total,14 a 15 anos,211000
-2019,52,Total,16 a 17 anos,
 2019,52,Total,18 a 19 anos,243000
 2019,52,Total,20 a 24 anos,563000
-2019,52,Total,25 a 29 anos,
 2019,52,Total,30 a 39 anos,1077000
 2019,52,Total,40 a 49 anos,1093000
 2019,52,Total,50 a 59 anos,861000
@@ -10579,7 +10520,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2019,52,Homens,5 a 9 anos,238000
 2019,52,Homens,10 a 13 anos,201000
 2019,52,Homens,14 a 17 anos,203000
-2019,52,Homens,14 a 15 anos,
 2019,52,Homens,16 a 17 anos,104000
 2019,52,Homens,18 a 19 anos,125000
 2019,52,Homens,20 a 24 anos,264000
@@ -10731,7 +10671,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2014,53,Homens,5 a 13 anos,173000
 2014,53,Homens,5 a 9 anos,88000
 2014,53,Homens,10 a 13 anos,85000
-2014,53,Homens,14 a 17 anos,
 2014,53,Homens,14 a 15 anos,53000
 2014,53,Homens,16 a 17 anos,46000
 2014,53,Homens,18 a 19 anos,40000
@@ -10776,7 +10715,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2015,53,Total,50 a 59 anos,308000
 2015,53,Total,60 anos ou mais,320000
 2015,53,Total,60 a 64 anos,120000
-2015,53,Total,65 anos ou mais,
 2015,53,Homens,Total,1354000
 2015,53,Homens,0 a 4 anos,92000
 2015,53,Homens,5 a 13 anos,186000
@@ -10831,7 +10769,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2016,53,Homens,Total,1379000
 2016,53,Homens,0 a 4 anos,90000
 2016,53,Homens,5 a 13 anos,195000
-2016,53,Homens,5 a 9 anos,
 2016,53,Homens,10 a 13 anos,95000
 2016,53,Homens,14 a 17 anos,86000
 2016,53,Homens,14 a 15 anos,42000
@@ -10960,7 +10897,6 @@ ano,id_uf,sexo,grupo_idade,populacao
 2018,53,Mulheres,25 a 29 anos,113000
 2018,53,Mulheres,30 a 39 anos,285000
 2018,53,Mulheres,40 a 49 anos,241000
-2018,53,Mulheres,50 a 59 anos,
 2018,53,Mulheres,60 anos ou mais,202000
 2018,53,Mulheres,60 a 64 anos,68000
 2018,53,Mulheres,65 anos ou mais,133000
